@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @feserec
+- 👀 I’m interested in learning code and applying on my daily data analysis.
+- 🌱 I’m currently learning Python and R.
+- 💞️ I’m looking to collaborate on any project at all.
+- 📫 How to reach me on feserec@gmail.com
